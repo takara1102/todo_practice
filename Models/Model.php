@@ -49,9 +49,9 @@ class Model
     // * findById()を以下に追加する
 
 
-    
 
-    
+
+
     public function delete($data)
     {
         // 削除処理
